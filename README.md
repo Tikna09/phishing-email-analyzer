@@ -1,6 +1,5 @@
 # phishing-email-analyzer
 Phishing Email Analysis project using email headers, SPF, DKIM, DMARC, and SOC investigation tools.
-# Phishing Email Analyzer
 
 ## Project Overview
 This project focuses on the technical analysis of a phishing email to identify malicious indicators using real-world Security Operations Center (SOC) investigation techniques. The analysis includes email header inspection, sender authentication validation, IP reputation checks, and malicious URL analysis using industry-standard tools.
@@ -136,11 +135,6 @@ https://blog1seguimentmydomaine2bra.me/
 - Hands-on SOC investigation experience
 - Threat intelligence correlation
 - Incident analysis and reporting skills
-
----
-
-## Author
-**Ankit Kirtane**
 
 ---
 
